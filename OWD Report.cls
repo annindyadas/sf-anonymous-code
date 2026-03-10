@@ -2,6 +2,7 @@
 Author: Annindya Das
 Date: 3/10/2026
 Description: Use to generate OWD report as log that can be copied to excel for filtering and other reporting purposes.
+Example: QualifiedApiName=Contact, DeveloperName=Contact, InternalSharingModel=Private, ExternalSharingModel=Private
 */
 
 List<String> apiNames = new List<String>(); String lastEntityQueried; List<String> rows = new List<String>();
